@@ -1,21 +1,14 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.ipynb_checkpoints/
 
-# Virtual environments
 .venv/
 venv/
 env/
 
-# VS Code
 .vscode/
 
-# Data (keep big files local)
 data/raw/
 data/processed/
-
-# Outputs
-outputs/

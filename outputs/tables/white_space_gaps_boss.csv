@@ -1,0 +1,22 @@
+category_main,price_band,sku_count,sku_count_brand,is_white_space
+Shoes,500–999,45139,0,True
+Shoes,1000+,13173,0,True
+Accessories,500–999,12415,0,True
+Accessories,1000+,5041,0,True
+Pants & Shorts,500–999,4645,0,True
+Knitwear & Sweats,500–999,4448,0,True
+Tops & Shirts,500–999,3792,0,True
+Dresses,1000+,3433,0,True
+Knitwear & Sweats,1000+,3182,0,True
+Pants & Shorts,1000+,2259,0,True
+Skirts,100–199,2145,0,True
+Bags,1000+,2137,0,True
+Tops & Shirts,1000+,1825,0,True
+Skirts,200–299,1001,0,True
+Skirts,500–999,894,0,True
+Bags,500–999,790,0,True
+Skirts,1000+,759,0,True
+Bags,300–499,489,0,True
+Bags,100–199,366,0,True
+Bags,200–299,324,0,True
+Bags,<100,290,0,True
