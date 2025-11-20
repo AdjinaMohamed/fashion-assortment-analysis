@@ -103,23 +103,24 @@ Identifying under-served combinations of categories and price bands.
 ## 📂 Project Structure
 
 ```
-├── data/
-│   ├── ssense.csv
-│   ├── netaporter.csv
-│   ├── mrporter.csv
-│   ├── vestiaire.csv
-│
-├── src/
-│   ├── cleaning.py
-│   ├── category_mapping.py
-│   ├── analysis.py
-│
-├── outputs/
-│   ├── figures/
-│   ├── tables/
-│
-├── notebook.ipynb
-├── README.md
+├─ data/ 
+│ ├─ raw/ 
+│ │ ├─ ssense_dataset.csv 
+│ │ ├─ mr-porter.csv 
+│ │ ├─ net-a-porter.csv 
+│ │ ├─ vestiaire.csv 
+│ ├─ processed/  
+├─ notebooks/ 
+│ ├─ 01_eda_and_schema.ipynb 
+│ ├─ 02_assortment_white_space.ipynb 
+├─ src/ 
+│ ├─ __init__.py 
+│ ├─ data_prep.py 
+│ ├─ plotting.py 
+├─ outputs/ 
+│ ├─ figures/  
+│ ├─ tables/ 
+├─ README.md
 ```
 
 ---

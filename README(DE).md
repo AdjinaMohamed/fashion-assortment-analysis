@@ -103,14 +103,24 @@ Identifikation unterbesetzter Segmente.
 ## 📂 Projektstruktur
 
 ```
-├── data/
-├── src/
-│   ├── cleaning.py
-│   ├── category_mapping.py
-│   ├── analysis.py
-├── outputs/
-├── notebook.ipynb
-├── README.md
+├─ data/ 
+│ ├─ raw/ 
+│ │ ├─ ssense_dataset.csv 
+│ │ ├─ mr-porter.csv 
+│ │ ├─ net-a-porter.csv 
+│ │ ├─ vestiaire.csv 
+│ ├─ processed/  
+├─ notebooks/ 
+│ ├─ 01_eda_and_schema.ipynb 
+│ ├─ 02_assortment_white_space.ipynb 
+├─ src/ 
+│ ├─ __init__.py 
+│ ├─ data_prep.py 
+│ ├─ plotting.py 
+├─ outputs/ 
+│ ├─ figures/  
+│ ├─ tables/ 
+├─ README.md
 ```
 
 ---
