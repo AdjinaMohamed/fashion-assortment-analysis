@@ -1,0 +1,11 @@
+category_main,price_band,sku_count,sku_count_brand,is_white_space,gap_score
+Shoes,500–999,45139,0,True,45139
+Shoes,1000+,13173,0,True,13173
+Accessories,500–999,12415,0,True,12415
+Accessories,1000+,5041,0,True,5041
+Pants & Shorts,500–999,4645,0,True,4645
+Knitwear & Sweats,500–999,4448,0,True,4448
+Tops & Shirts,500–999,3792,0,True,3792
+Dresses,1000+,3433,0,True,3433
+Knitwear & Sweats,1000+,3182,0,True,3182
+Pants & Shorts,1000+,2259,0,True,2259
